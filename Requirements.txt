@@ -1,0 +1,12 @@
+streamlit
+steamlit_webrtc
+mediapipe
+mp
+keras.models
+simple-webbrowser
+os2024
+av
+numpy
+keras.utils
+cv
+opencv-python
