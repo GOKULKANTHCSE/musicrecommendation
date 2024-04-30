@@ -10,3 +10,4 @@ numpy
 keras.utils
 cv
 opencv-python
+webrtc_streamer
